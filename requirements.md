@@ -35,7 +35,7 @@
 	 
 	
 ###What other non-functional requirements should be documented?
--It is a free software, anyone could run, copy, distribute, study, change and improve
+- It is a free software, anyone could run, copy, distribute, study, change and improve
 	
 ###What kind of metrics you should use to guarantee unambiguity?
 - Using similar terms as popular social network (example Facebook)
